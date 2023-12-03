@@ -58,7 +58,7 @@ class Buffer_1:
 
 2)
 ```python  
-class Buffer_2():
+class Buffer_2:
     def __init__(self, max_size):
         self.buffer = []
         self.limit = max_size
